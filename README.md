@@ -14,9 +14,12 @@
 - 🏎️ **[f1-racing](https://github.com/Kohnnn/f1-racing)** - F1 data telemetry and computational fluid dynamics simulation
 
 
-### Others
+### Portfolio
 
 - 🗂️ **[personal-portfolio](https://github.com/Kohnnn/personal-portfolio)** - Portfolio site
+
+## Deprecated Projects
+
 - 📸 **[gapsnap](https://github.com/Kohnnn/gapsnap)** *(deprecated)* - Gap analysis snapshots at a glance
 - 🔀 **[sankeydrawer](https://github.com/Kohnnn/sankeydrawer)** *(deprecated)* - Draw and export Sankey flow diagrams interactively
 - ⚡ **[deepseek-n8n-automate-workflow](https://github.com/Kohnnn/deepseek-n8n-automate-workflow)** *(deprecated)* - Self-hosted n8n + Open WebUI + Qdrant + Ollama stack
@@ -27,3 +30,5 @@
 *💚<img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" />💚*
 
 *Repositories migrated from legacy suspended account: [@Kiethvph](https://github.com/Kiethvph).*
+
+For maintenance of this profile README, see the [repository handoff](SWARM_READY.md).
